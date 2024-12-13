@@ -1,0 +1,7 @@
+streamlit
+pdf2image
+img2table
+azure-cognitiveservices-vision-computervision
+pillow
+opencv-python
+numpy
