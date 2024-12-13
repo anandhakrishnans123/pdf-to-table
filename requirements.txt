@@ -3,5 +3,5 @@ pdf2image
 img2table
 azure-cognitiveservices-vision-computervision
 pillow
-opencv-python
+opencv-python-headless
 numpy
